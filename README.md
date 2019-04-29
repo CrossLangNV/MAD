@@ -3,7 +3,7 @@ Misalignment detection (MAD)
 
 Repository contains code for the paper: Misalignment detection for web scraped corpora: a supervised regression approach.
 
-# Dependencies
+### Dependencies
 python3 <br/>
 numpy <br/>
 scipy <br/>
