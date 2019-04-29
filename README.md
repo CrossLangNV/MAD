@@ -15,7 +15,7 @@ InferSent (git clone https://github.com/facebookresearch/InferSent.git ) <br/>
 Dockerfile can be found in docker_mad/Dockerfile <br/>
 
 ### Labeled dataset
-Labeled dataset used to train supervised model:   <br/>
+Labeled dataset used to train supervised regression model:   <br/>
 DATA/supervised_dataset/labeled.tsv  <br/>
 
 A tab separated file, with at each line:  <br/>
