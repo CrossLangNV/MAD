@@ -29,3 +29,17 @@ https://github.com/ArneDefauw/MAD/blob/master/1-MAD_notebook.ipynb
 ### Pre-trained MAD model
 MAD/models/estimator_SVC.save
 
+### Code to work with MAD
+MAD.py
+
+example:
+
+python MAD.py \
+
+--path_src en.sentences  #path to English sentences  \
+
+--path_tgt ga.sentences #path to foreign sentences \
+
+--path_tgt_translated ga.sentence.translated #path to foreign sentences translated to English  \
+
+--output_folder /MAD
