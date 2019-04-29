@@ -52,9 +52,13 @@ Code will create the file MAD_scores with at each line the MAD score for the cor
 
 ### Data used for intrinsic evaluation
 
-MAD/Gold_standard contains the data used for intrinsic evaluation on alignment Gold Standard (EN-FR and EN-GA).  <br/>
+The folder 'MAD/Gold_standard' contains the data used for intrinsic evaluation on alignment Gold Standard (EN-FR and EN-GA).  <br/>
 
 The folders documents_en_fr and documents_en_ga contain the 13 respectively 11 documents used for creation of Gold Standards. The file url_keys_matched is a tab separated file containing the doc id, the url of the English documents, url of the foreign language documents and the similarity score produced by Malign (https://github.com/paracrawl/Malign)
+
+corpus_en_fr and corpus_en_ga are tab separated files containing the alignments produced by Hunalign. At each line:
+
+url_src /t url_tgt /t src /t tgt /t BiCleaner_score /t MAD_score
 
 
 ### Data used for extrinsic evaluation
