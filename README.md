@@ -19,7 +19,7 @@ Labeled dataset used to train supervised model:   <br/>
 DATA/supervised_dataset/labeled.tsv  <br/>
 
 A tab separated file, with at each line:  <br/>
-source /t target    source_2_cross    target_2_cross    source_2_en    target_2_en  <br/>
+source /t target /t source_2_cross /t target_2_cross /t source_2_en /t target_2_en  <br/>
 
 ### Notebook
 
