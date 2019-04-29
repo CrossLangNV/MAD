@@ -63,5 +63,11 @@ url_src /t url_tgt /t src /t tgt /t BiCleaner_score /t MAD_score
 
 ### Data used for extrinsic evaluation
 
+Data used for training of our NMT engines can be found here 
+
+They are tab separated files with at each line
+
+url_src /t url_tgt /t src /t tgt /t BiCleaner_score /t MAD_score
+
 
 
