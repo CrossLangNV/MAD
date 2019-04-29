@@ -63,9 +63,9 @@ url_src /t url_tgt /t src /t tgt /t BiCleaner_score /t MAD_score
 
 ### Data used for extrinsic evaluation
 
-Data used for training of our NMT engines can be found here:
-http://www.crosslang.com/sites/crosslang/files/corpus_en_fr.gz
-http://www.crosslang.com/sites/crosslang/files/corpus_en_ga.gz
+Data used for training of our NMT engines can be found here:  <br/>
+http://www.crosslang.com/sites/crosslang/files/corpus_en_fr.gz <br/>
+http://www.crosslang.com/sites/crosslang/files/corpus_en_ga.gz <br/>
 
 They are tab separated files with at each line
 
