@@ -29,7 +29,7 @@ https://github.com/ArneDefauw/MAD/blob/master/1-MAD_notebook.ipynb
 ### Pre-trained MAD model
 MAD/models/estimator_SVC.save
 
-### Work with MAD
+### Using MAD
 MAD.py
 
 example:
