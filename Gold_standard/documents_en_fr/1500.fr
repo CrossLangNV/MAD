@@ -1,0 +1,164 @@
+1 Qu’entend-on par «exécution» en matière civile et commerciale?
+En République de Slovénie, l'exécution est régie de manière uniforme par la loi sur l'exécution et les mesures conservatoires (Zakon o izvršbi in zavarovanju – ZIZ).
+Par exécution, on entend l'exécution judiciaire forcée de titres exécutoires qui ordonnent l'exécution d'une créance (c'est-à-dire l'obligation de donner, de faire, de ne pas faire ou de laisser faire).
+L'exécution visant au recouvrement d'une créance monétaire est également autorisée sur le fondement d'un acte authentique.
+À titre exceptionnel, l'exécution en matière familiale peut également s'étendre à la possession d'état.
+2 Quelle(s) autorité(s) est (sont) compétente(s) en matière d'exécution?
+Les tribunaux, et plus précisément les tribunaux cantonaux (okrajno sodišče) sont compétents pour autoriser et ordonner l'exécution.
+3 Quand un titre exécutoire peut-il être délivré?
+L'exécution est autorisée par un tribunal en vertu d'un titre exécutoire.
+Les titres exécutoires incluent: les décisions judiciaires exécutoires (les jugements ou sentences arbitrales, les ordonnances et les ordres de paiement ou autres émanant d'une juridiction ou d'un tribunal arbitral) et les transactions judiciaires (conclues devant un tribunal); les actes notariés exécutoires; les autres décisions ou les documents susceptibles d'exécution qui sont définis comme des titres exécutoires par la loi, un traité international ratifié et publié ou un acte juridique de l'Union européenne directement applicable en République de Slovénie.
+Un titre exécutoire est apte à être exécuté s'il contient les informations sur le créancier et le débiteur ainsi que sur l'objet, le type, l'étendue et le moment de l'exécution de l'obligation (article 21, premier alinéa, de la ZIZ).
+Si le titre exécutoire est une décision qui ne fixe pas de délai pour l'exécution volontaire de l'obligation, c'est le tribunal qui fixe ce délai dans son ordonnance d'exécution.
+3.1 La procédure Les procédures d'exécution et les procédures conservatoires sont introduites à la demande d'un créancier.
+La demande peut être présentée directement par le créancier, car la représentation par un avocat n'est pas obligatoire.
+En général, les demandes d'exécution sont introduites par ministère d'un avocat disposant des connaissances juridiques nécessaires.
+Les tribunaux cantonaux (okrajno sodišče) sont compétents en matière d'exécution.
+Nonobstant les dispositions relatives à la compétence territoriale, les demandes d'exécution fondées sur un acte authentique sont introduites au tribunal cantonal de Ljubljana (Okrajno sodišče v Ljubljani).
+C'est ce tribunal qui se prononce sur les demandes.
+En ce qui concerne la possibilité ou l'obligation, dans des procédures d'exécution, d'introduire une demande par voie électronique, veuillez consulter la rubrique «Traitement automatique».
+Des frais de justice doivent être payés au moment de l'introduction d'une demande d'exécution, d'une opposition et d'un appel.
+Les frais de justice doivent être payés au plus tard dans les huit jours qui suivent la notification de l'ordre de paiement des frais de justice.
+Si les frais de justice ne sont pas payés dans le délai visé au paragraphe précédent et que les conditions d'une exonération, d'un paiement différé ou d'un paiement échelonné des frais de justice ne sont pas remplies, la demande est réputée retirée.
+Lorsque le tribunal reçoit une demande d'exécution, il vérifie si celle-ci contient tous les éléments nécessaires et émet une ordonnance d'exécution par laquelle il autorise l'exécution ou il rejette la demande d'exécution comme non fondée (pour des motifs de fond) ou comme irrecevable (pour des motifs procéduraux).
+Le tribunal notifie au créancier et au débiteur l'ordonnance d'exécution par laquelle il autorise l'exécution, et il notifie uniquement au créancier l'ordonnance d'exécution par laquelle il rejette la demande d'exécution.
+Le tribunal notifie à l'huissier de justice l'ordonnance d'exécution par laquelle l'huissier de justice est désigné, c'est-à-dire l'ordonnance de désignation de l'huissier de justice, avec la copie de tous les documents nécessaires pour procéder à l'exécution.
+Le tribunal autorise l'exécution visant au remboursement d'une créance monétaire par les moyens et sur les objets qui sont mentionnés dans la demande d'exécution.
+À la demande d'un créancier, le tribunal peut, avant la fin de la procédure d'exécution, outre les moyens et objets déjà autorisés, autoriser l'exécution par des moyens supplémentaires et sur des objets supplémentaires, ou autoriser l'exécution par des moyens ou sur des objets autres que ceux qui sont déjà autorisés.
+Le tribunal peut déterminer, à la demande du débiteur, un autre moyen d'exécution à la place de celui qui a été proposé par le créancier, si ledit moyen suffit à rembourser la créance.
+L'ordonnance rejetant une demande n'est pas susceptible d'appel.
+L'exécution prend cours avant que l'ordonnance d'exécution devienne définitive, sauf dispositions contraires de la loi concernant des mesures d'exécution particulières.
+Le créancier ne peut pas être remboursé avant que l'ordonnance d'exécution devienne définitive, sauf dans le cas d'une exécution fondée sur un titre exécutoire, à savoir lorsque l'exécution vise des sommes d'argent que le débiteur conserve dans un établissement de paiement (exécution fondée sur un titre exécutoire) à condition qu'il joigne le titre exécutoire à sa demande d'exécution.
+Dans son ordonnance autorisant une exécution dans le cadre de laquelle des mesures directes d'exécution doivent être mises en œuvre, le tribunal désigne également un huissier de justice.
+Huissiers de justice Les huissiers de justice sont les personnes qui effectuent les mesures d'exécution et conservatoires directes (ils procèdent donc concrètement à l'exécution – c'est-à-dire qu'ils effectuent les saisies, fixent les garanties, etc.).
+Les huissiers de justice sont nommés par le ministère chargé de la justice.
+Le nombre d'huissiers de justice et leur lieu d'établissement sont déterminés par le ministère chargé de la justice de telle manière qu'il y a au moins un huissier de justice par ressort de tribunal régional (okrožno sodišče), et le nombre d'autres huissiers de justice dans le ressort d'un tribunal régional est fixé en fonction du nombre d'affaires d'exécution instruites par les tribunaux cantonaux situés dans le ressort du tribunal régional en question.
+Les huissiers de justice sont affectés à une affaire d'exécution par une ordonnance du tribunal, mais le créancier peut également choisir lui-même un huissier de justice particulier.
+Dans toute affaire d'exécution, l'huissier de justice peut mettre en œuvre des mesures dans l'ensemble du territoire de la République de Slovénie.
+L'huissier de justice accomplit une mission de service public dans le cadre d'une activité exercée à titre indépendant.
+Les huissiers de justice sont responsables de tout préjudice qu'ils causent lorsqu'ils appliquent des mesures d'exécution et conservatoires en raison de leur comportement ou du manquement aux obligations qui leur incombent en vertu de la loi, des règlements et des décisions judiciaires.
+En cas de violation grave de leurs obligations, les huissiers de justice peuvent être démis de leurs fonctions par le ministre chargé de la justice.
+Frais d'exécution Les frais d'exécution sont d'abord payés par le créancier.
+Le créancier doit verser une avance sur les frais des mesures d'exécution selon les modalités, pour le montant et dans le délai fixés par le tribunal.
+Si le créancier ne paie pas l'avance dans le délai imparti, le tribunal suspend l'exécution.
+Le débiteur doit rembourser au créancier, à la demande de ce dernier, les frais engagés aux fins de l'exécution, y compris les frais de recherche des biens du débiteur, ou rembourser d'office les dépens.
+Le tribunal doit se prononcer sur les frais dans les huit jours suivant la réception de la demande.
+Afin de garantir le paiement de travaux effectués et le remboursement de frais engagés, l'huissier de justice peut demander au créancier de verser une garantie dans le délai et pour le montant définis dans le barème.
+L'huissier de justice doit remettre en personne au créancier une mise en demeure de paiement de la garantie accompagnée d'un avertissement concernant les conséquences encourues si la garantie n'est pas payée dans le délai imparti et si une preuve du paiement n'est pas présentée à l'huissier de justice, et il y inclut également un avis indiquant que le créancier a le droit de demander au tribunal de se prononcer sur la garantie.
+Si le créancier n'est pas d'accord avec les modalités de paiement, le délai ou le montant de la garantie, il peut, dans les huit jours suivant la réception de la mise en demeure de l'huissier de justice, demander auprès de l'huissier de justice que le tribunal se prononce sur la question.
+L'huissier de justice transmet immédiatement la demande au tribunal qui doit se prononcer à son sujet dans les huit jours suivant la réception de la demande.
+Si le créancier ne paie pas la garantie de la manière prescrite par l'huissier de justice ou le tribunal et dans le délai imparti par ces derniers, ou s'il ne présente pas de preuve de paiement, l'huissier de justice en avertit le tribunal qui suspend l'exécution.
+3.2 Les conditions essentielles La première condition de l'autorisation de l'exécution est l'existence d'un fondement à l'exécution, qui peut être un titre exécutoire ou un acte authentique conformément à la réglementation.
+Force exécutoire d'une décision judiciaire: Une décision judiciaire est exécutoire si elle est devenue définitive et si le délai fixé pour l'exécution volontaire des obligations du débiteur a expiré.
+Le délai d'exécution volontaire des obligations commence à courir le jour suivant la date de la notification de la décision au débiteur.
+L'exécution peut être autorisée seulement pour une partie de la décision lorsque cette partie est devenue exécutoire.
+Le tribunal autorise également l'exécution en vertu d'une décision judiciaire qui n'est pas encore définitive si la loi dispose que le recours n'est pas suspensif d'exécution.
+Force exécutoire d'une transaction judiciaire: Une transaction judiciaire est exécutoire lorsque la créance visée par la transaction est arrivée à échéance.
+L'échéance de la créance est démontrée sur la base du procès-verbal de la transaction, d'un acte public ou d'un acte authentifié conformément à la loi.
+Si l'échéance ne peut être démontrée de cette manière, elle est prouvée par une décision définitive délivrée dans une procédure civile par laquelle on conclut que la créance est échue.
+Force exécutoire d'un acte notarié: Un acte notarié est exécutoire si le débiteur a accepté, dans l'acte notarié, sa force exécutoire directe et si la créance émanant de l'acte notarié est échue.
+L'échéance de la créance est démontrée sur la base d'un acte notarié, d'un acte public ou d'un acte authentifié conformément à la loi.
+Si l'échéance de la créance ne dépend pas de l'expiration du délai, mais d'un autre fait mentionné dans l'acte notarié, le notaire avertit les parties que, pour démontrer que la créance est échue, il suffit que le créancier adresse au débiteur une déclaration écrite indiquant que la créance est échue et contenant la date d'échéance et la preuve que ladite déclaration écrite a été notifiée au débiteur.
+Le notaire avertit les parties qu'au lieu de présenter une preuve de la notification de la déclaration écrite indiquant que la créance est échue, le créancier peut mandater un notaire pour communiquer l'échéance au débiteur.
+La déclaration écrite du créancier ou le message du notaire doivent être notifiés par courrier recommandé.
+Dans sa demande d'exécution, le créancier doit clairement désigner le titre exécutoire en vertu duquel il demande l'exécution et indiquer qu'un certificat constatant la force exécutoire a été délivré.
+La créance doit être échue et le délai d'exécution volontaire de l'obligation (le délai de grâce) doit avoir expiré.
+Le débiteur doit être clairement mentionné et déjà figurer dans le titre exécutoire ou l'acte authentique.
+De même, le débiteur doit être nommément désigné, avec son adresse (ou son siège) dans la demande d'exécution.
+La demande d'exécution doit inclure les données d'identification du débiteur (ainsi que celles du créancier), ces données étant différentes selon que le débiteur (ou le créancier) est une personne physique, une personne morale, un entrepreneur ou un travailleur indépendant.
+Le débiteur doit être une entité existante (il ne doit pas être décédé ou effacé du registre du commerce).
+Si la demande d'exécution est introduite contre une entité inexistante, elle doit être rejetée, et si l'entité cesse d'exister pendant la procédure d'exécution même, cela constitue un motif pour suspendre la procédure de plein droit (sans que cela nécessite la délivrance d'un acte particulier).
+De la même manière, tant le débiteur que le créancier doivent répondre à des conditions (capacité juridique) qui s'appliquent également dans une procédure civile, conformément aux dispositions du code de procédure civile en combinaison avec l'article 15 de la loi sur l'exécution et les mesures conservatoires (Zakon o izvršbi in zavarovanju – ZIZ).
+4 Objet et nature des mesures d’exécution L'objectif des mesures d'exécution est le remboursement des créances aux créanciers.
+Les moyens d'exécuter le paiement des créances monétaires sont les suivants: vente des biens meubles du débiteur, vente des biens immeubles, transfert des créances monétaires du débiteur, réalisation des autres droits de propriété ou des droits matériels et des titres dématérialisés du débiteur, vente de parts d'associé et transfert des avoirs conservés dans des établissements de paiement (c'est-à-dire les banques).
+Les moyens d'exécuter les créances non monétaires sont les suivants: remise et livraison des biens meubles, évacuation et remise des biens immeubles, services de remplacement à la charge du débiteur, astreinte pour faire exécuter l'obligation de faire du débiteur, réintégration d'un travailleur, partage de biens, déclaration de volonté et retrait d'enfant.
+4.1 Quels types de biens peuvent faire l’objet d’une exécution?
+Les moyens d’exécution énumérés précédemment peuvent être utilisés pour saisir tous les biens faisant l'objet d'une exécution (chaque bien, droit de propriété ou droit matériel du débiteur), à condition que ces biens ne soient pas exclus de l'exécution par la loi ou que l'exécution dont ils font l'objet ne soit pas limitée par la loi – article 32 de la ZIZ.
+Le principal effet et objectif de toutes les mesures d'exécution est le remboursement de la créance du créancier.
+Les effets dépendent du type de moyen d'exécution.
+EXÉCUTION POUR RECOUVRER UNE CRÉANCE MONÉTAIRE L'exécution visant des biens meubles a lieu par la saisie et la vente des biens meubles.
+Le créancier acquiert un droit de gage sur les biens saisis.
+L'exécution visant une créance monétaire d'un débiteur a lieu par la saisie et le transfert de la créance monétaire.
+Par l'ordonnance autorisant la saisie d'une créance monétaire (ordonnance de saisie), le tribunal interdit au débiteur du débiteur de rembourser la créance au débiteur, et il interdit au débiteur de recouvrer la créance, y compris à partir d'un gage qui a été donné en garantie, et également d'en disposer de toute autre manière.
+La saisie est effective à partir du jour où l'ordonnance de saisie est notifiée au débiteur du débiteur.
+Le créancier acquiert un droit de gage sur la créance du débiteur à la suite de la saisie de ladite créance ordonnée par le tribunal à la demande du créancier.
+L'exécution visant les fonds du débiteur conservés dans des établissements de paiement: par l'ordonnance d'exécution visant les fonds détenus par le débiteur dans des établissements de paiement, le tribunal ordonne aux établissements de paiement de bloquer les fonds du débiteur sur tous les comptes de ce dernier à hauteur de l'obligation fixée dans l'ordonnance d'exécution et de verser ce montant au créancier lorsque l'ordonnance devient définitive.
+L'ordonnance a l'effet d'une saisie et d'un transfert en vue d'un recouvrement.
+Le tribunal informe l'établissement de paiement lorsque l'ordonnance d'exécution devient définitive.
+L’établissement de paiement est tenu d'informer immédiatement le tribunal de l'exécution du remboursement au créancier.
+L'exécution visant une créance de remise ou de livraison de biens meubles ou de remise de biens immeubles a lieu par la saisie de cette créance, par son transfert au profit du créancier et par la vente du bien.
+Le transfert de la créance saisie du débiteur a pour effet le transfert de la créance monétaire en recouvrement du débiteur.
+L'exécution visant d'autres droits de propriété ou d'autres droits matériels est accomplie par la saisie de ce droit et par la réalisation des biens meubles.
+La saisie est effective à compter du jour où l'ordonnance d'exécution est notifiée au débiteur.
+Par l'ordonnance d'exécution autorisant la saisie, le tribunal interdit au débiteur de disposer de ce droit.
+Par la saisie du droit, le créancier acquiert un droit de gage sur ledit droit.
+L'exécution visant des titres dématérialisés: l'exécution visant des titres dématérialisés cotés en bourse, en vue du recouvrement d'une créance monétaire, est accomplie par la saisie et la vente des titres dématérialisés et par le paiement du créancier à partir de la somme provenant de la vente.
+La saisie est effective à compter du jour où l'ordonnance d'exécution est inscrite au registre central des titres dématérialisés.
+L'exécution visant la part d'un associé est accomplie par l'inscription de l'ordonnance d'exécution au registre du commerce, par la vente de ladite part et par le paiement du créancier à partir de la somme provenant de la vente.
+Par l'ordonnance d'exécution, le tribunal interdit à l'associé de disposer de sa part.
+Le tribunal notifie l'ordonnance d'exécution à la société et il l'inscrit au registre du commerce.
+Cette inscription confère au créancier un droit de gage sur la part de l'associé qui produit des effets également contre toute personne qui acquiert ultérieurement la part concernée.
+L'exécution visant des biens immeubles est mise en œuvre par l'inscription de l'ordonnance d'exécution au registre foncier, par la détermination de la valeur des biens immeubles concernés, par la vente des biens immeubles et par le paiement du créancier sur la somme provenant de la vente.
+Le tribunal inscrit l'ordonnance d'exécution visant les biens immeubles dans le registre foncier.
+L'inscription de l'ordonnance d'exécution confère au créancier un droit de gage sur les biens immeubles qui produit également des effets contre toute personne qui acquiert ultérieurement un droit de propriété sur les biens immeubles concernés.
+Le créancier qui a demandé l'exécution mais n'avait pas encore obtenu de droit de gage ou de dette foncière, acquiert, par l'inscription de l'ordonnance d'exécution au registre, le droit d'être payé à partir des biens immeubles concernés avant toute personne obtenant ultérieurement un droit de gage ou une dette foncière sur lesdits biens.
+EXÉCUTION POUR RECOUVRER UNE CRÉANCE NON MONÉTAIRE La procédure de remise et de livraison des biens meubles est conduite de telle manière que l'huissier de justice prend ces biens au débiteur et les livre au créancier contre un reçu.
+La procédure d'évacuation et de livraison des biens immeubles est conduite de telle manière que l'huissier de justice livre le bien immeuble au créancier après en avoir expulsé les personnes et après l'avoir vidé de ses meubles.
+L’évacuation et la livraison du bien immeuble sont autorisées après l'expiration d'un délai de huit jours suivant la date de notification de l'ordonnance d’exécution au débiteur.
+L'obligation de faire, de laisser faire ou de ne pas faire peut être exécutée en collaboration avec l'huissier de justice selon les modalités fixées par le tribunal.
+En vertu du titre exécutoire ordonnant au débiteur de faire quelque chose qu'un tiers peut également effectuer, l'exécution a lieu de telle manière que le tribunal autorise le créancier à confier cette tâche à un tiers, aux frais du débiteur, ou à effectuer cette tâche lui-même (service de substitution à la charge du débiteur).
+Si le titre exécutoire oblige le débiteur à faire quelque chose que personne d'autre ne peut effectuer à sa place, le tribunal, par une ordonnance d'exécution, lui fixe un délai approprié pour exécuter son obligation.
+Par l'ordonnance d'exécution, le tribunal prononce également une astreinte pour le cas où le débiteur n'exécuterait pas son obligation dans le délai fixé (astreinte pour faire exécuter l'obligation de faire du débiteur).
+La réintégration d'un travailleur est effectuée de telle manière que le tribunal fixe, par ordonnance d'exécution, un délai approprié pour l'exécution de l'obligation.
+Par l'ordonnance d'exécution, le tribunal prononce également une astreinte pour le cas où le débiteur n'exécuterait pas son obligation dans le délai fixé.
+Le partage des biens peut être accompli par partage physique, si ce partage est prévu dans le titre exécutoire, ou par la vente des biens.
+La déclaration de volonté: l'obligation de présenter une déclaration de volonté foncière ou toute autre déclaration de volonté mentionnée dans une décision qui constitue un titre exécutoire est réputée satisfaite lorsque ladite décision devient définitive.
+L'exécution dans les affaires de garde et de visite des enfants et de contacts personnels avec les enfants a lieu de telle manière que le tribunal énonce, dans l'ordonnance d'exécution, que la personne chez laquelle se trouve l'enfant est tenue de remettre l'enfant.
+En outre, le tribunal fixe le délai dans lequel l'enfant doit être remis ou il indique que l'enfant doit être remis immédiatement.
+L'obligation de remettre l'enfant est imposée par l'ordonnance d'exécution à la personne visée par le titre exécutoire, à la personne dont la volonté conditionne la remise de l'enfant et à la personne chez laquelle se trouve l'enfant au moment de la délivrance de ladite ordonnance.
+Dans l'ordonnance d'exécution, le tribunal énonce que l'obligation de remettre l'enfant produit également ses effets à l'égard de toute autre personne chez laquelle l'enfant se trouve au moment où l'exécution a lieu.
+Si le débiteur dispose de ses biens en violation de la décision du tribunal de l'exécution, la transaction conclue dans ce cadre n'est valide que si elle a été effectuée à titre onéreux et si l'autre partie a agi de bonne foi (elle ne savait pas et ne pouvait pas savoir que le débiteur n'avait pas le droit de disposer de ses biens) au moment où les biens ont été transférés ou grevés.
+Le débiteur qui, lors de l'exécution forcée, détruit, endommage, cède ou dissimule une partie de ses biens et porte ainsi préjudice au créancier en vue d'empêcher le paiement du créancier, est également responsable pénalement et peut se voir infliger, à ce titre, une amende ou une peine d'emprisonnement pouvant aller jusqu'à un an.
+À la demande du tribunal, une banque est tenue de fournir toutes les explications et tous les documents permettant d'établir si et de quelle manière elle a appliqué l'ordonnance d'exécution du tribunal et comment elle a respecté les rangs de priorité définis par la loi pour le paiement des créances.
+Elle est également tenue de transmettre aux créanciers et au tribunal les renseignements relatifs aux comptes bancaires du débiteur.
+En vertu de l'ordonnance d'exécution, la banque est tenue de bloquer les sommes d'argent qu'un débiteur conserve chez elle à hauteur du montant fixé dans l'ordonnance d'exécution, et de verser la somme bloquée au créancier.
+À la demande d'un créancier, le tribunal peut ordonner à une banque qui, en violation d'une ordonnance rendue par ledit tribunal, ne procède pas à la saisie, au transfert ou au versement de sommes échues de payer au créancier lesdites sommes à la place du débiteur à partir de ses propres actifs.
+Dans ce cas, la banque est également responsable envers le créancier du préjudice qu'elle a causé en n'agissant pas conformément à l'ordonnance d'exécution ou en violant les dispositions légales sur l'obligation de déclaration des informations, sur le respect des rangs de priorité et sur le montant et les modalités du paiement des obligations émanant de l'ordonnance d'exécution.
+En vertu d'une ordonnance d'exécution, un employeur est tenu de payer au créancier une somme unique d'argent ou de lui verser régulièrement des sommes d'argent qui seraient normalement payées au débiteur au titre du salaire.
+Dans ce cas, il doit rester au débiteur une somme au moins égale à 70 % du salaire minimal fixé pour le mois courant.
+À la demande d'un créancier, le tribunal peut ordonner à un employeur qui, en violation d'une ordonnance rendue par ledit tribunal, ne procède pas au prélèvement et au versement des sommes échues au créancier de payer lui-même au créancier lesdites sommes, à la place du débiteur, à partir de ses propres actifs.
+Dans ce cas, l'employeur est également responsable envers le créancier du préjudice qu'il a causé en n'agissant pas conformément à l'ordonnance d'exécution.
+Un débiteur de débiteur est tenu de déclarer s'il reconnaît une créance saisie et pour quel montant, et si son obligation de payer la créance est subordonnée au respect d'une éventuelle autre obligation éventuelle.
+S'il ne fournit pas de déclaration sur cette question ou si sa déclaration n'est pas conforme à la vérité, il est tenu responsable du préjudice causé au créancier.
+4.3 Quelle est la durée de validité de ces mesures?
+La durée de validité d'une mesure d'exécution d'un tribunal dépend du type de mesure.
+La procédure d'exécution (et, partant, les effets de l'ordonnance autorisant l'exécution) prend généralement fin lorsque les créances du créancier sont honorées.
+Si l'exécution n'est pas réalisable pour des raisons de droit et de fait, il doit y être mis fin par la cessation de l'exécution, qui entraîne l'annulation de tous les actes d'exécution, sauf si cette annulation empiète sur des droits acquis par des tiers (par exemple, les droits d'acheteurs de biens meubles saisis).
+Un créancier peut demander le report d'une procédure d'exécution pour un délai maximal d'un an et ainsi maintenir la validité de l'ordonnance autorisant l'exécution, même dans les cas où le débiteur ne possède aucun bien au moment de la délivrance de ladite ordonnance (et où il existe donc des obstacles de fait qui empêchent la réalisation de la créance du créancier).
+Si, dans le cadre d'une exécution visant les créances du débiteur sur la banque, il n'y a pas d'argent sur les comptes du débiteur ou si le débiteur ne peut disposer de son argent, la banque est tenue de conserver l'ordonnance d'exécution une année de plus dans ses registres et de procéder au paiement du créancier lorsque l'argent est viré sur le compte du débiteur ou que le débiteur obtient le droit d'en disposer.
+Jusqu'à ce moment, l'exécution ne doit pas être suspendue.
+Jusqu'à ce moment, l'exécution ne doit pas être suspendue.
+5 Y a-t-il une possibilité de recours contre la décision ordonnant une telle mesure?
+Ont le droit d'exercer un recours ordinaire en justice contre la décision du tribunal de l'exécution: le débiteur, le créancier, tout tiers ayant un droit sur l'objet de l'exécution qui empêche l'exécution, et tout acheteur d'un bien dans le cadre d’une procédure de vente.
+La voie de recours ordinaire en justice contre une ordonnance rendue en première instance est l'appel.
+L'ordonnance autorisant l'exécution, contre laquelle le débiteur et tout tiers ayant un droit sur l'objet de l'exécution qui empêche l'exécution peuvent former une opposition, constitue une exception.
+L’opposition doit être motivée.
+Dans l’opposition, le débiteur doit exposer les faits sur lesquels il s'appuie et fournir les preuves nécessaires, faute de quoi l’opposition est réputée non fondée (opposition du débiteur).
+Le créancier a le droit de répondre à l’opposition dans un délai de huit jours.
+L'ordonnance prononcée sur l’opposition est susceptible d'appel.
+Toute personne démontrant qu'elle dispose d'un droit sur l'objet de l'exécution qui empêche l'exécution peut former une opposition contre l'ordonnance d'exécution et exiger que le tribunal rejette l'exécution sur cet objet comme étant irrecevable (opposition du tiers).
+L’opposition peut être formée jusqu'à la fin de la procédure d'exécution.
+Si le créancier ne répond pas à l’opposition dans le délai imparti, ou s'il déclare ne pas s'y opposer, le tribunal, selon les circonstances de l'espèce, annule l'ordonnance d’exécution dans son intégralité ou en partie, et il suspend l'exécution.
+Si le créancier déclare, dans le délai imparti, qu'il conteste l’opposition, le tribunal rejette celle-ci.
+Celui qui a formé l’opposition peut, dans un délai de trente jours suivant la date à laquelle l'ordonnance est devenue définitive, engager une action afin d'établir que l'exécution sur cet objet n'est pas recevable.
+L'appel et l’opposition sont introduits devant le tribunal qui a émis l'ordonnance faisant l'objet du recours.
+En principe, c'est le même tribunal que celui ayant émis l'ordonnance d'exécution qui connaît de l’opposition et c'est un tribunal de deuxième instance statue sur l'appel.
+La décision sur l'appel est définitive.
+L’opposition et l'appel peuvent être introduits dans un délai de huit jours suivant la notification de l'ordonnance du tribunal de première instance.
+À titre exceptionnel, il est également possible de former une opposition après l'expiration du délai susmentionné, et jusqu'à la fin de la procédure d'exécution, si ladite opposition s'appuie sur un fait qui concerne la seule créance et qui est apparu après que la décision est devenue exécutoire, et si l’opposition n'a donc pas pu être exercée dans le délai imparti.
+L'appel et l’opposition ne sont pas suspensifs de l'exercice des actes d'exécution dans la procédure d'exécution, sauf pour la phase de paiement.
+En principe, le créancier ne doit pas être payé avant que l'ordonnance d'exécution soit définitive.
+Un créancier peut être remboursé avant que l'ordonnance d'exécution devienne définitive uniquement dans le cas d'une exécution fondée sur un titre exécutoire visant des sommes d'argent que le débiteur conserve dans des établissements de paiement, à condition qu'il joigne le titre exécutoire à sa demande d'exécution, sauf dans les affaires commerciales où il n'est pas nécessaire de joindre le titre exécutoire.
+Dans une procédure d'exécution, les voies de recours extraordinaires sont limitées.
+6 L'exécution est-elle soumise à des limitations, notamment en ce qui concerne la protection du débiteur ou d'éventuels délais applicables?
+Liens connexes http://www.dz-rs.si/wps/portal/Home/deloDZ/zakonodaja/preciscenaBesedilaZakonov http://www.mp.gov.si/si/obrazci_evidence_mnenja_storitve/uporabni_seznami_imeniki_in_evidence/ http://www.sodisce.si/ https://www.uradni-list.si/glasilo-uradni-list-rs http://pisrs.si/
