@@ -14,7 +14,7 @@ InferSent (git clone https://github.com/facebookresearch/InferSent.git ) <br/>
 
 Dockerfile can be found in docker_mad/Dockerfile <br/>
 
-# Notebook
+### Notebook
 
 Notebook where machine learning pipeline is explained:
- 	1-MAD_notebook.ipynb
+https://github.com/ArneDefauw/MAD/blob/master/1-MAD_notebook.ipynb
