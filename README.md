@@ -34,7 +34,7 @@ MAD.py
 
 example:
 
-if en.sentences is a file containing English sentences; ga.sentences is file containing Irish sentences; and ga.sentences.translated contains translation of ga.sentences to English, then we can calculate MAD score for each sentence pair via. Code will create a file MAD_scores with the MAD score for each sentence pair.
+if en.sentences is a file containing English sentences; ga.sentences is file containing Irish sentences; and ga.sentences.translated contains translation of ga.sentences to English, then we can calculate MAD score for each sentence pair via the command:
 
 
 python MAD.py \
@@ -46,3 +46,6 @@ python MAD.py \
 --path_tgt_translated ga.sentence.translated  \
 
 --output_folder /MAD
+
+
+Code will create the file MAD_scores with at each line the MAD score for the corresponding sentence pair
