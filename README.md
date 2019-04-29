@@ -48,4 +48,4 @@ python MAD.py \
 --output_folder /MAD
 
 
-Code will create the file MAD_scores with at each line the MAD score for the corresponding sentence pair
+Code will create the file MAD_scores with at each line the MAD score for the corresponding sentence pair.
